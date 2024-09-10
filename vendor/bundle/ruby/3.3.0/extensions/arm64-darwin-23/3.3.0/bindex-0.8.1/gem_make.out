@@ -1,0 +1,18 @@
+current directory: /Users/tomoyuki/production/mine-share/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/tomoyuki/.rbenv/versions/3.3.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/tomoyuki/production/mine-share/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240910-66826-g4uku0 sitelibdir\=./.gem.20240910-66826-g4uku0 clean
+
+current directory: /Users/tomoyuki/production/mine-share/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240910-66826-g4uku0 sitelibdir\=./.gem.20240910-66826-g4uku0
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/tomoyuki/production/mine-share/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240910-66826-g4uku0 sitelibdir\=./.gem.20240910-66826-g4uku0 install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20240910-66826-g4uku0/skiptrace/internal
+
+current directory: /Users/tomoyuki/production/mine-share/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240910-66826-g4uku0 sitelibdir\=./.gem.20240910-66826-g4uku0 clean

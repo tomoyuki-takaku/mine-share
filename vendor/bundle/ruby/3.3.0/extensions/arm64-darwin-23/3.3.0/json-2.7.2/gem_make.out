@@ -1,0 +1,16 @@
+current directory: /Users/tomoyuki/production/mine-share/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+/Users/tomoyuki/.rbenv/versions/3.3.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/tomoyuki/production/mine-share/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240910-66826-pmxxpz sitelibdir\=./.gem.20240910-66826-pmxxpz clean
+
+current directory: /Users/tomoyuki/production/mine-share/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240910-66826-pmxxpz sitelibdir\=./.gem.20240910-66826-pmxxpz
+make: Nothing to be done for `all'.
+
+current directory: /Users/tomoyuki/production/mine-share/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240910-66826-pmxxpz sitelibdir\=./.gem.20240910-66826-pmxxpz install
+
+current directory: /Users/tomoyuki/production/mine-share/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240910-66826-pmxxpz sitelibdir\=./.gem.20240910-66826-pmxxpz clean

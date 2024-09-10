@@ -1,0 +1,22 @@
+current directory: /Users/tomoyuki/production/mine-share/vendor/bundle/ruby/3.3.0/gems/bootsnap-1.18.4/ext/bootsnap
+/Users/tomoyuki/.rbenv/versions/3.3.5/bin/ruby extconf.rb
+checking for fdatasync() in unistd.h... yes
+checking for whether -D_GNU_SOURCE is accepted as CPPFLAGS... yes
+checking for whether -O3 is accepted as CFLAGS... yes
+checking for whether -std=c99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: /Users/tomoyuki/production/mine-share/vendor/bundle/ruby/3.3.0/gems/bootsnap-1.18.4/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240910-66826-7si6e sitelibdir\=./.gem.20240910-66826-7si6e clean
+
+current directory: /Users/tomoyuki/production/mine-share/vendor/bundle/ruby/3.3.0/gems/bootsnap-1.18.4/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240910-66826-7si6e sitelibdir\=./.gem.20240910-66826-7si6e
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/tomoyuki/production/mine-share/vendor/bundle/ruby/3.3.0/gems/bootsnap-1.18.4/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240910-66826-7si6e sitelibdir\=./.gem.20240910-66826-7si6e install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20240910-66826-7si6e/bootsnap
+
+current directory: /Users/tomoyuki/production/mine-share/vendor/bundle/ruby/3.3.0/gems/bootsnap-1.18.4/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240910-66826-7si6e sitelibdir\=./.gem.20240910-66826-7si6e clean
