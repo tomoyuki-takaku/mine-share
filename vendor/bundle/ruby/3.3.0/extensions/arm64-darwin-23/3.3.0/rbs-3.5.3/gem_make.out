@@ -1,0 +1,27 @@
+current directory: /Users/tomoyuki/production/mine-share/vendor/bundle/ruby/3.3.0/gems/rbs-3.5.3/ext/rbs_extension
+/Users/tomoyuki/.rbenv/versions/3.3.5/bin/ruby extconf.rb
+checking for whether -std=gnu99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: /Users/tomoyuki/production/mine-share/vendor/bundle/ruby/3.3.0/gems/rbs-3.5.3/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20240922-93514-vss5ua sitelibdir\=./.gem.20240922-93514-vss5ua clean
+
+current directory: /Users/tomoyuki/production/mine-share/vendor/bundle/ruby/3.3.0/gems/rbs-3.5.3/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20240922-93514-vss5ua sitelibdir\=./.gem.20240922-93514-vss5ua
+compiling constants.c
+compiling lexer.c
+compiling lexstate.c
+compiling location.c
+compiling main.c
+compiling parser.c
+compiling parserstate.c
+compiling ruby_objs.c
+compiling unescape.c
+linking shared-object rbs_extension.bundle
+
+current directory: /Users/tomoyuki/production/mine-share/vendor/bundle/ruby/3.3.0/gems/rbs-3.5.3/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20240922-93514-vss5ua sitelibdir\=./.gem.20240922-93514-vss5ua install
+/usr/bin/install -c -m 0755 rbs_extension.bundle ./.gem.20240922-93514-vss5ua
+
+current directory: /Users/tomoyuki/production/mine-share/vendor/bundle/ruby/3.3.0/gems/rbs-3.5.3/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20240922-93514-vss5ua sitelibdir\=./.gem.20240922-93514-vss5ua clean
